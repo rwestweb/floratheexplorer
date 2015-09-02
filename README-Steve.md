@@ -1,4 +1,11 @@
 # Flora The Explora
+## Requirments
+### Back End Setup
+- LAMP Stack
+### Front End Dependencies
+- [jQuery](https://code.jquery.com/)
+- [Twitter Bootstrap](http://getbootstrap.com)
+- [Modernizr](http://modernizr.com/) 
 ## Problem Statement
 We’re solving two problems:
 - An inefficient way of collecting data from users.
