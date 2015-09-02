@@ -1,24 +1,36 @@
-# Flora The Explora
+# Flora The Explorer
+
 ## Requirments
+
 ### Back End Setup
+
 - LAMP Stack
+
 ### Front End Dependencies
+
 - [jQuery](https://code.jquery.com/)
 - [Twitter Bootstrap](http://getbootstrap.com)
-- [Modernizr](http://modernizr.com/) 
+- [Modernizr](http://modernizr.com/)
+ 
 ## Problem Statement
+
 We’re solving two problems:
-- An inefficient way of collecting data from users.
-- An inefficient way of browsing the collected data.
+
+1. An inefficient way of collecting data from users.
+2. An inefficient way of browsing the collected data.
 
 Currently, users must fill out an outdated excel sheet that incites exhaustion at its very sight. Additionally, there is now way to browse the collected data other than going through each excel sheet one by one.
 
 Our app will streamline both functions by exploiting web technologies to make data collection easier for users and automating several of the manual tasks admin currently has to take to browse the collected data.
+
 ## Data collection
+
 ### Front End (HTML, CSS, JS)
+
 The Front End has two main tasks.
 
 First, it must collect following the data:
+
 - Name of user
 - Date gathered
 - Name of plant
@@ -37,8 +49,11 @@ While in the field, we can make use of browser technology and free weather APIs 
 A post hoc record upload will require the user to enter location and weather data.
 
 The second Front End task is to display the uploaded records (*no querying necessary*). This data will protected by a single code.
+
 ###Back End (PHP)
+
 The back end will add the following to the uploaded record:
+
 - UID
 - Time Stamp
 
