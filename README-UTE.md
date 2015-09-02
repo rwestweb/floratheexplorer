@@ -34,10 +34,10 @@ Data items
 
 >>Current Temperature	- text field, restricted to number only, maximum 3 characters, labeled
 			  Fahrenheit.
-			  Note: If Observation date and time are within one
-			  ====	hour of the current time, weather conditions
-				and temperature could be collected using 
-				an API provided by weather.com or a similar site
+			> ##Note: If Observation date and time are within one
+		          	> hour of the current time, weather conditions
+				>  and temperature could be collected using 
+				>  an API provided by weather.com or a similar site
 				
 >>Soil Type		- dropdown list with options (see spreadsheet)
 
