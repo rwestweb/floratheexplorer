@@ -88,12 +88,3 @@ download the data. Download format will be limited to a comma delimited file (CS
 initially. If time permits, other formats such as PDF may be added. 
 
 
-Reporting Page
---------------
-
->The data reporting page will be password protected. Once the correct password has been
->entered, all records currently in the database will be displayed, sorted by the
->stored system time stamp, newest record first. A buttom will allow the user to
->download the data. Download format will be limited to a comma delimited file (CSV)
->initially. If time permits, other formats such as PDF may be added. 
-
