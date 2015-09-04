@@ -63,7 +63,7 @@ Technical Resources
 
 ### Back End Dependencies
 
-- Linux Apache2 MySQL PHP (LAMP Stack)
+- Linux, Apache2, MySQL, PHP (LAMP Stack)
 
 ### Front End Dependencies
 
