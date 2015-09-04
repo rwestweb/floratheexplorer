@@ -34,8 +34,7 @@ The following data items will be collected.
 - Current Temperature	- text field, restricted to number only, maximum 3 characters, labeled Fahrenheit.
   - **Note**: *If Observation date and time are within one hour of the current time, weather conditions and temperature could be collected using an API provided by weather.com or a similar site.*
 - Soil Type - drop-down list with options (see spreadsheet)
-
-**Notes** - *a free form text field to allow user to enter additional information he/she may want to add. This data cannot be validated, but there is a desire to exclude profanity. HTML or other mark up tags will also be excluded, for security reasons. 128 characters max.*
+- Notes - a free form text field to allow user to enter additional information he/she may want to add. This data cannot be validated, but there is a desire to exclude profanity. HTML or other mark up tags will also be excluded, for security reasons. 128 characters max.
 
 Data Storage
 ------------
