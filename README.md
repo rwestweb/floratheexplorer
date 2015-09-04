@@ -37,6 +37,11 @@ The following data items will be collected.
 
 **Notes** - *a free form text field to allow user to enter additional information he/she may want to add. This data cannot be validated, but there is a desire to exclude profanity. HTML or other mark up tags will also be excluded, for security reasons. 128 characters max.*
 
+Data Storage
+------------
+
+The collected data will be stored in a data table, to be defined at a later time. The database record will include a unique id, a GUID if possible, to identify each record uniquely. Weather data will be gathered into a single field, although the data may have been entered using separate fields for conditions and temperature. If the user enters the observation time and date, the data will be converted to and stored as a database DateTime value. If the user does not enter a observation date and time, the current server time stamp will be stored as the observation date and time. Current server time stamp will also be stored as a database DateTime value to preserve the time the record was entered, in addition to the time the data was observed.
+
 Data collection and form processing
 -----------------------------------
 
