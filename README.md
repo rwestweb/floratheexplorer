@@ -3,21 +3,18 @@
 Introduction
 ------------
 
-The Colorado Plants project is a web application designed to gather data about wild plants growing in Colorado. The application will be available to the general public for data entry. No registration or login will be required to access this page. Additionally, a data reporting page will be available but access to this page will be password protected.
-
-The application will be accessible using a web browser only, but must be usable on a tablet, phone and PC.
- 
-Problem Statement
-----------
-
 We’re solving two problems:
 
 1. An inefficient way of collecting data from users.
 2. An inefficient way of browsing the collected data.
 
-Currently, users must fill out an outdated excel sheet that incites exhaustion at its very sight. Additionally, there is now way to browse the collected data other than going through each excel sheet one by one.
+Currently, users must fill out an outdated excel sheet that incites exhaustion at its very sight. Additionally, there is no way to browse the collected data other than going through each excel sheet one by one.
 
-Our app will streamline both functions by exploiting web technologies to make data collection easier for users and provide reporting functions for administrators.
+Our solution will streamline both functions by exploiting web technologies to make data collection easier for users and providing reporting functions for administrators.
+
+The Colorado Plants project is a web application designed to gather data about wild plants growing in Colorado. The application will be available to the general public for data entry. No registration or login will be required to access this page. Additionally, a data reporting page will be available but access to this page will be password protected.
+
+The application will be accessible using a web browser only, but must be usable on a tablet, phone and PC.
 
 Data items
 ----------
