@@ -50,14 +50,14 @@ Initially weather data and location data will be entered by the user. If time pe
 
 The data will be saved when the user clicks the Save button. Once the current record has been saved, the form will be re-displayed preserving all fields except plant name, notes, and soil conditions.
 
-If time permits, we may populated weather conditions using a web app. even if observation time and system time are more than 1 hour apart. If this can be done, the user entered weather condition and temperature fields will be eliminated. 
+If time permits, we may populated weather conditions using a web app. even if observation time and system time are more than 1 hour apart. If we can collect past weather conditions, the user entered weather condition and temperature fields will be eliminated.
 
 Reporting Page
 --------------
 
 The data reporting page will be password protected. Once the correct password has been entered, all records currently in the database will be displayed, sorted by the stored system time stamp, newest record first. A button will allow the user to download the data. Download format will be limited to a comma delimited file (CSV) initially. If time permits, other formats such as PDF may be added.
 
-If time permits, we will add the ability to restrict the data-set by time frame, location, and soil type.
+If time permits, we will add the ability to restrict the data-set by time frame, location, or soil type.
 
 Technical Resources
 ----------
